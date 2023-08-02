@@ -52,3 +52,22 @@ Use "Create a story" prompts
 1. Help me practice my English Skills. You are a fluent English Speaker and will assist me in improving my language abilities.
 
 2. Check this text and give me feedback on spelling and grammar. Show me the mistakes and tell me why they are incorrect.
+
+## Practice with examples
+
+1. Help me practice my English Skills. You are a fluent English Speaker and will assist me in improving my language abilities.
+
+2. Gime me 5 sentences with common **[topic]**. Example:
+   _Gime me 5 sentences with common prepositions._
+
+3. Gime me 5 sentences with uncommon **[topic]**. Example:
+   _Gime me 5 sentences with uncommon prepositions._
+
+## Practice with quiz
+
+1. Help me practice my English Skills. You are a fluent English Speaker and will assist me in improving my language abilities.
+
+2. I want to practice the **[topic]**. I am having problems with the past participle. Can you give me 5 gap fill sentences for me to practice? Don't show me the answers until I ask you and show me the corresponding verbs in brackets. Example:
+   _I want to practice the present perfect structure. I am having problems with the past participle. Can you give me 5 gap fill sentences for me to practice? Don't show me the answers until I ask you and show me the corresponding verbs in brackets_
+
+3. Show me the answers
