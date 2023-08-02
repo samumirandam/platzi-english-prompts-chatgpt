@@ -70,4 +70,4 @@ Use "Create a story" prompts
 2. I want to practice the **[topic]**. I am having problems with the past participle. Can you give me 5 gap fill sentences for me to practice? Don't show me the answers until I ask you and show me the corresponding verbs in brackets. Example:
    _I want to practice the present perfect structure. I am having problems with the past participle. Can you give me 5 gap fill sentences for me to practice? Don't show me the answers until I ask you and show me the corresponding verbs in brackets_
 
-3. Show me the answers
+3. Show me the answers and tell me why
